@@ -1,1 +1,1 @@
-# .github
+# Prosoz Herten GmbH
