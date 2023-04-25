@@ -1,5 +1,5 @@
 # Prosoz Herten GmbH
-<a href="https://de.linkedin.com/company/prosoz-herten-gmbh" target="blank"><img align="center" src=" 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="prosoz-herten-gmbh"  /></a>
+<a href="https://de.linkedin.com/company/prosoz-herten-gmbh" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="prosoz-herten-gmbh"  /></a>
 <a href="https://fb.com/prosoz-herten-190565895103244" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="prosoz-herten-190565895103244" /></a>
 <a href="https://instagram.com/prosozherten" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="prosozherten"  /></a>
 <a href="https://www.youtube.com/@prosozherten" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@prosozherten" /></a>
