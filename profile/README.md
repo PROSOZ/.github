@@ -6,33 +6,26 @@
 
 Wir sind seit mehr als 30 Jahren Marktführer für kommunale IT und entwickeln ganzheitliche, moderne Lösungen für die tägliche Arbeit in der Verwaltung. Hierbei decken wir die Bereiche Arbeit, Soziales, Kinder- und Jugendhilfe sowie Bauen, Umwelt und Ordnung ab.
 
-Zu unserem Kerngeschäft gehört nicht nur die individuelle Beratung unserer Kund*innen in der Prozess- und Organisationsentwicklung, sondern auf Wunsch auch die Begleitung bei jedem Schritt der Projektumsetzung – von der ersten Bedarfsanalyse über die Implementierung, die Optimierung bis hin zur Qualifizierung der Mitarbeiter*innen durch unsere PROSOZ Akademie. Hierzu zählt auch die Strategieberatung und kompetenten Begleitung unserer Kund*innen rund um das Thema eGovernment.
+Zu unserem Kerngeschäft gehört nicht nur die individuelle Beratung unserer Kund\*innen in der Prozess- und Organisationsentwicklung, sondern auf Wunsch auch die Begleitung bei jedem Schritt der Projektumsetzung – von der ersten Bedarfsanalyse über die Implementierung, die Optimierung bis hin zur Qualifizierung der Mitarbeiter\*innen durch unsere PROSOZ Akademie. Hierzu zählt auch die Strategieberatung und kompetenten Begleitung unserer Kund\*innen rund um das Thema eGovernment.
 
-Als auf die Zukunft ausgerichtetes Unternehmen wissen wir, dass unser Erfolg von unseren rund 450 Mitarbeiter*innen abhängt. Mit ihrer täglichen Arbeit beeinflussen sie das Leben vieler Menschen ganz entscheidend.
+Als auf die Zukunft ausgerichtetes Unternehmen wissen wir, dass unser Erfolg von unseren rund 450 Mitarbeiter\*innen abhängt. Mit ihrer täglichen Arbeit beeinflussen sie das Leben vieler Menschen ganz entscheidend.
 
 
 
 Mit unseren Softwareprodukten und Beratungsdienstleistungen unterstützen wir Kunden in folgenden Bereichen:
 
-
-    · Jobcenter: Arbeit und Soziales (SGB II)
-
-    · Jugendämter: Kinder- und Jugendhilfe (SGB VIII)
-
-    · Sozialämter: Soziale Hilfen (SGB XII)Formularende
-
-    · Asylbewerberleistungsgesetz (AsylbLG)
+- Jobcenter: Arbeit und Soziales (SGB II)
+- Jugendämter: Kinder- und Jugendhilfe (SGB VIII)
+- Sozialämter: Soziale Hilfen (SGB XII)Formularende
+- Asylbewerberleistungsgesetz (AsylbLG)
 
 
 Unsere Business Intelligence (BI) Lösung „PROSOZ KRISTALL“ ermöglicht ein verfahrensübergreifendes Controlling der Verwaltung innerhalb der Sozial- und Jugendämter.
 
-    · Bauaufsichtsbehörden
-
-    · Denkmalbehörden
-
-    · Umweltbehörden
-
-    · Ordnungsbehörden
+- Bauaufsichtsbehörden
+- Denkmalbehörden
+- Umweltbehörden
+- Ordnungsbehörden
 
 Unsere PROSOZ Akademie bietet Qualifizierungen zu allen Produkten und fachlichen Themen der Bereiche Arbeit und Soziales, Kinder- und Jugendhilfe und Bauen und Ordnung an. Langjährige Anwender unserer Verfahren können ihr Wissen in Vertiefungsqualifizierungen festigen, neue Mitarbeiter in einer Verwaltung lernen in Einführungsveranstaltungen den praxisorientierten Umgang mit der Software von PROSOZ Herten.
 
